@@ -1,2 +1,2 @@
-# 08--Intro.-Machine-Learning
+# 08-Intro._Machine_Learning
 QLABN
