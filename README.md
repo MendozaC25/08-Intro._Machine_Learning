@@ -1,11 +1,12 @@
 # 08-Intro._Machine_Learning
 Diplomatura de Ciencia de Datos para CCSS y Gestión Pública
+
 Indice
 #### PD1
-https://www.youtube.com/watch?v=BBVI7B5Urtc
+https://youtu.be/BBVI7B5Urtc
 
 #### PD2
-https://www.youtube.com/watch?v=PhBfgMYaB7Y
+https://youtu.be/PhBfgMYaB7Y
 
 #### PD3
 https://youtu.be/XxEh3DUHdt8
